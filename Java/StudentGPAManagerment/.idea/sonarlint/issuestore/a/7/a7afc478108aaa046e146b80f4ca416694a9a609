@@ -1,0 +1,16 @@
+
+.
+java:S1700"Rename field "diem"(™Î€üÿÿÿÿ
+m
+java:S1206O"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8çÙ›ï·0
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¯Æ£äûÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(©€ùØ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(“ù–œ
+S
+java:S11170"8Rename "diem" which hides the field declared at line 13.(ª„‚¯ÿÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ïª´òúÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(›Òü½
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(»ÕÃÇùÿÿÿÿ8Ä•›¡¶0
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8öÙ›ï·0
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8¯Ê ®·0

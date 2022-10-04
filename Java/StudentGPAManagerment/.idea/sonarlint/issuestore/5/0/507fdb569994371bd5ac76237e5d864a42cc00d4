@@ -1,0 +1,20 @@
+
+s	java:S135H"YReduce the total number of break and continue statements in this loop to use at most one.(þªöäþÿÿÿÿ
+Y
+java:S3518g"<Make sure "tinChi" can't be zero before doing this division.(ðˆÖª8À¨Éô·0
+f
+java:S1206v"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+m
+java:S3776)"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(³¥Ýãüÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÊøÇéþÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(½¾¦™
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ÃÔû´
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(äíØç
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ÁßŽ³úÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(²ùÀ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(„ìíÿ
+h	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ð€òüÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(úÏ—Ùûÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(ïÅ·“ýÿÿÿÿ
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8–¿Èô·0

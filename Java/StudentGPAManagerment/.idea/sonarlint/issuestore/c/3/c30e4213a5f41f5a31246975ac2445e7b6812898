@@ -1,0 +1,22 @@
+
+k	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔŞçÌÿÿÿÿÿ
+h
+java:S3008"RRename this field "AUTO_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÂ•ú
+n
+java:S1206“"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8¨ç´š¶0
+A
+java:S3010 "$Remove this assignment of "AUTO_ID".(İ¸“£8éÑàÇ·0
+A
+java:S3010&"$Remove this assignment of "AUTO_ID".(óİèÍ8ëÑàÇ·0
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ÅÖŒÇúÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(±™ı•ûÿÿÿÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(—’Çæ
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(°ÿîê8×¯Šıµ0
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(ĞçŸ‚üÿÿÿÿ8Öç´š¶0
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(ğˆ·Öşÿÿÿÿ8Ûç´š¶0
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(¡Î¯ßûÿÿÿÿ8İç´š¶0
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(äíØç8âç´š¶0
+>	java:S131l""Add a default case to this switch.(¨ÕÉ8æç´š¶0
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(Ü©ÊÁøÿÿÿÿ8ïç´š¶0
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ü©ÊÁøÿÿÿÿ8ôç´š¶0
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¥ï±Œ8€è´š¶0

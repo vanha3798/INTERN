@@ -1,0 +1,114 @@
+
+f
+java:S1192"KDefine a constant instead of duplicating this literal "Moi chon: " 4 times.(¹­Äôûÿÿÿÿ
+b
+java:S1192h"LDefine a constant instead of duplicating this literal "3. Quay lai" 3 times.(…±úœ
+n
+java:S1192‡"RDefine a constant instead of duplicating this literal "Nhap so lon hon 0" 3 times.(õÏ´‚øÿÿÿÿ
+k
+java:S1192o"PDefine a constant instead of duplicating this literal "Nhap tu 1 den 3" 3 times.(¥Çÿ¦üÿÿÿÿ
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¯Äâ
+o	java:S135ß"YReduce the total number of break and continue statements in this loop to use at most one.(¯Äâ
+o	java:S135º"YReduce the total number of break and continue statements in this loop to use at most one.(¯Äâ
+j
+java:S2095M"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ
+l
+java:S2095Ã"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ
+j
+java:S2095@"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ
+j
+java:S2095ç"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(İïşÛüÿÿÿÿ
+j
+java:S2095Y"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ
+l
+java:S2095è"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ
+g
+java:S2095—"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ºÚìİ
+j
+java:S2095Â"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÿÊÎşÿÿÿÿ
+c
+java:S2095X"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(€ŠÚ”
+c
+java:S2095L"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¯Ú¨ï
+c
+java:S2095?"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ü Ø
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ûÔëî
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õíÀşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šÈÛ¦øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(á«°ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÚÅ†ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ã…¥Á
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ú±
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹­Äôûÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ƒÅòê
+7	java:S131'""Add a default case to this switch.(¨ÕÉ
+K
+java:S1854J"5Remove this useless assignment to local variable "i".(Ş¼Ş¢
+A
+java:S1481="&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ÿ°îèúÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(„¨÷öıÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ÿ°îèúÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(„¨÷öıÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ÿ°îèúÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(„¨÷öıÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(–ËÜ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(º¾ÖÖ
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(…±úœ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(¹­Äôûÿÿÿÿ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(¥Çÿ¦üÿÿÿÿ
+7	java:S131s""Add a default case to this switch.(¨ÕÉ
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ìÅ´Ÿüÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(‹¶›Æıÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(õÏ´‚øÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(—ãÙí
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(şıÌ•
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(„¨÷öıÿÿÿÿ
+2
+java:S3626°"Remove this redundant jump.(ûÁİ…
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(è Ê¡üÿÿÿÿ
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(øµ—²ûÿÿÿÿ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(ÌÀïıÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(æüØØúÿÿÿÿ
+O	java:S106¸"9Replace this use of System.out or System.err by a logger.(…±úœ
+T	java:S106¹"9Replace this use of System.out or System.err by a logger.(¹­Äôûÿÿÿÿ
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(¥Çÿ¦üÿÿÿÿ
+8	java:S131Ã""Add a default case to this switch.(¨ÕÉ
+n
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(•Î€©üÿÿÿÿ
+O	java:S106Ò"9Replace this use of System.out or System.err by a logger.(Ù…„â
+T	java:S106×"9Replace this use of System.out or System.err by a logger.(õÏ´‚øÿÿÿÿ
+T	java:S106Ü"9Replace this use of System.out or System.err by a logger.(½¼Òßıÿÿÿÿ
+O	java:S106á"9Replace this use of System.out or System.err by a logger.(úÁ¯¹
+T	java:S106í"9Replace this use of System.out or System.err by a logger.(„¨÷öıÿÿÿÿ
+2
+java:S3626ƒ"Remove this redundant jump.(ûÁİ…
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(ñ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(ÃŠ“°ıÿÿÿÿ
+N	java:S106‰"9Replace this use of System.out or System.err by a logger.(ëœ7
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(ñëØ¯
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(…±úœ
+T	java:S106Œ"9Replace this use of System.out or System.err by a logger.(¹­Äôûÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(¥Çÿ¦üÿÿÿÿ
+8	java:S131–""Add a default case to this switch.(¨ÕÉ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(èªíÊ
+n
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(²“±¦ùÿÿÿÿ
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(¾ê”Âùÿÿÿÿ
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(õÏ´‚øÿÿÿÿ
+O	java:S106³"9Replace this use of System.out or System.err by a logger.(ÿÒæ™
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(¿Ëè•ùÿÿÿÿ
+T	java:S106È"9Replace this use of System.out or System.err by a logger.(„¨÷öıÿÿÿÿ
+2
+java:S3626ß"Remove this redundant jump.(ûÁİ…
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106Ş"9Replace this use of System.out or System.err by a logger.(€¹ úÿÿÿÿ
+i
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(‡›°
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(Ş€›ûÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‘œÙøÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(½¥ù“şÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(Ü©ÊÁøÿÿÿÿ
